@@ -1,10 +1,12 @@
 # Hi 👋, I'm Jean-Noël
 ### Junior Web Developer from France
 
+
 ## About me
 
 - 🌱 I’m currently learning **Symfony, React**
 - 🤝 I'm available for a work-study program for the CDA qualification.(Concepteur développeur d’applications)) [More informations...](https://www.banque.di.afpa.fr/EspaceEmployeursCandidatsActeurs/EGPResultat.aspx?ct=01281m04&cd=&cr=&type=t)
+
 
 ## Languages and Tools
 
@@ -22,9 +24,11 @@
 ###### OS
 ![Linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
+
 ## Top Languages
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeannolimit&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeannolimit" /></p>
+
 
 ## Connect with me
 
