@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean-Noël</h1>
 <h3 align="center">Junior Web Developer from France</h3>
 
+<h2 align="left">About me</h2>
 
 - 🌱 I’m currently learning **Symfony, React**
 
@@ -22,5 +23,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
+
+<h2 align="left">Languages and Tools</h2>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeannolimit&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeannolimit" /></p>
