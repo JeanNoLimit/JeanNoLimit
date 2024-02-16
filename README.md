@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jean-Noël</h1>
 <h3 align="center">Junior Web Developer from France</h3>
 
+
 - 🌱 I’m currently learning **Symfony, React**
 
 - 🤝 I'm available for a work-study program for the CDA qualification.(Concepteur développeur d’applications)) [More informations...](https://www.banque.di.afpa.fr/EspaceEmployeursCandidatsActeurs/EGPResultat.aspx?ct=01281m04&cd=&cr=&type=t)
 
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
 
 <p align="center"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
@@ -22,4 +23,4 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeannolimit&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeannolimit" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeannolimit&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeannolimit" /></p>
